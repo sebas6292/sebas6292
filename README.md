@@ -1,1 +1,1 @@
-Trial phase 
+Hello, me name is Sebastian Leal, I grew up in Southern California and I'm a Full-Stack Web Developer. I enjoy a great challenge and as a web developer, there is always a challenge for me to overcome. I'm a huge believer in self-development and through my past experience it has grown me to become a stronger person. I believe that in this field, there will bring great opportunities for myself, my loved ones, and other people to experience now and in the future. 
