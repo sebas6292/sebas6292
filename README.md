@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sebas6292@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cgquCEYQLfYwZdnw20WRNjDLqSDAUZzjSnLgXNBOVfc/edit](https://docs.google.com/document/d/1cgquCEYQLfYwZdnw20WRNjDLqSDAUZzjSnLgXNBOVfc/edit)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1cgquCEYQLfYwZdnw20WRNjDLqSDAUZzjSnLgXNBOVfc/edit](https://docs.google.com/document/d/1cgquCEYQLfYwZdnw20WRNjDLqSDAUZzjSnLgXNBOVfc/edit) -->
 
 - ⚡ Fun fact **I like to Salsa Dance**
 
